@@ -5,4 +5,24 @@
          <lastmod>2023-05-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://SIG/HPC.rocky.page/about/</loc>
+         <lastmod>2023-05-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://SIG/HPC.rocky.page/contact/</loc>
+         <lastmod>2023-05-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://SIG/HPC.rocky.page/events/</loc>
+         <lastmod>2023-05-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://SIG/HPC.rocky.page/events/meeting-notes/2023-04-20/</loc>
+         <lastmod>2023-05-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
