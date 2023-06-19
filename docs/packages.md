@@ -28,4 +28,4 @@ Those are some of the packages that we are thinking to maintain and support with
     * magpie
     * openpbs
     * pmix
-
+    * NIS : ypserv, ypbind, yptools and a correspdonding nss_nis (took the source rpms from fedora and recompiled them for R9)
