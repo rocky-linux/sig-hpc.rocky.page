@@ -2,67 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://SIG/HPC.rocky.page/</loc>
-         <lastmod>2023-07-17</lastmod>
+         <lastmod>2023-08-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://SIG/HPC.rocky.page/about/</loc>
-         <lastmod>2023-07-17</lastmod>
+         <lastmod>2023-08-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://SIG/HPC.rocky.page/contact/</loc>
-         <lastmod>2023-07-17</lastmod>
+         <lastmod>2023-08-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://SIG/HPC.rocky.page/events/</loc>
-         <lastmod>2023-07-17</lastmod>
+         <lastmod>2023-08-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://SIG/HPC.rocky.page/installation/</loc>
-         <lastmod>2023-07-17</lastmod>
+         <lastmod>2023-08-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://SIG/HPC.rocky.page/packages/</loc>
-         <lastmod>2023-07-17</lastmod>
+         <lastmod>2023-08-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://SIG/HPC.rocky.page/events/meeting-notes/2023-04-20/</loc>
-         <lastmod>2023-07-17</lastmod>
+         <lastmod>2023-08-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://SIG/HPC.rocky.page/events/meeting-notes/2023-05-04/</loc>
-         <lastmod>2023-07-17</lastmod>
+         <lastmod>2023-08-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://SIG/HPC.rocky.page/events/meeting-notes/2023-05-18/</loc>
-         <lastmod>2023-07-17</lastmod>
+         <lastmod>2023-08-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://SIG/HPC.rocky.page/events/meeting-notes/2023-06-01/</loc>
-         <lastmod>2023-07-17</lastmod>
+         <lastmod>2023-08-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://SIG/HPC.rocky.page/events/meeting-notes/2023-06-15/</loc>
-         <lastmod>2023-07-17</lastmod>
+         <lastmod>2023-08-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://SIG/HPC.rocky.page/events/meeting-notes/2023-06-29/</loc>
-         <lastmod>2023-07-17</lastmod>
+         <lastmod>2023-08-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://SIG/HPC.rocky.page/events/meeting-notes/2023-07-13/</loc>
-         <lastmod>2023-07-17</lastmod>
+         <lastmod>2023-08-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://SIG/HPC.rocky.page/events/meeting-notes/2023-07-27/</loc>
+         <lastmod>2023-08-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
